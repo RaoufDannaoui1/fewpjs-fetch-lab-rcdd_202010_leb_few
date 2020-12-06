@@ -12,4 +12,4 @@ function renderBooks(books) {
     main.appendChild(h2)
   })
 }
-document.addEventListener('DOMContentLoaded', fetchBooks() {} );
+document.addEventListener('DOMContentLoaded', fetchBooks() {} )
